@@ -20,3 +20,10 @@ and the plugin will try to pause the current track.
 
 If you want to restart the player, just enter the command again.
 
+# Contribute
+
+This is my first published vim plugin. Feel free to comment on the
+codestyle. If I did not follow best practices, please say so.
+
+If you want to add another player, e.g. Rdio, please submit a PR for
+them.
